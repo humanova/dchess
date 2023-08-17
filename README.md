@@ -1,15 +1,14 @@
 
 # dChess bot
-[Bot invite](https://discord.com/oauth2/authorize?client_id=712694503726645278&permissions=75840&scope=bot) - [Support server](https://discord.gg/XFEHTX)
+Chess bot for Discord guilds.
+
+[Service repository](https://github.com/humanova/dchess-service)
+
+Features :
+- Global and Guild elo
+- Player/guild stats
+- Live board preview
 
 ## Preview
-
-### Live match status with board preview
-![match](https://cdn.discordapp.com/attachments/708363709025747118/712739617413136434/unknown.png "match")
-
-### Guild ranking
-![rank](https://media.discordapp.net/attachments/708363709025747118/712740727918034967/unknown.png "rank")
-### Player stats
-![player](https://media.discordapp.net/attachments/708363709025747118/712744048259236051/unknown.png "player")
-
+![68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3436393133303531333639373733343638362f3839323532353836373632323837393234322f6170695f707265766965772e706e67](https://github.com/humanova/dchess/assets/22047571/d428980b-3665-4109-a9c3-69e8dba01a6e)
 
